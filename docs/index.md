@@ -51,7 +51,7 @@ To contribute a new format, copy and adapt `docs/formats/template.md`.
 
 ## 📜 License
 
-This project is licensed under the MIT License. See `LICENSE` for details.
+This project is licensed under the BSD-2-Clause license. See `LICENSE` for details.
 
 ## 🌍 Acknowledgements
 
