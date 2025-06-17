@@ -31,7 +31,6 @@ CSV is favored for its ease of inspection, creation, and manipulation using basi
 
 - Exporting spreadsheets (Excel, LibreOffice)
 - Data interchange between software
-- Bioinformatics pipelines (e.g., gene expression matrices)
 - Machine learning datasets (e.g., from UCI ML repository)
 - Data publication in open science and open government
 
@@ -95,5 +94,3 @@ CSV's strength lies in its simplicity. But that same simplicity also limits its 
 
 - RFC 4180: [Common Format and MIME Type for CSV Files](https://datatracker.ietf.org/doc/html/rfc4180)
 - [Wikipedia: CSV](https://en.wikipedia.org/wiki/Comma-separated_values)
-- Kandel et al., 2011. "Research Directions in Data Wrangling"
-- [Frictionless Data: CSV Dialects](https://specs.frictionlessdata.io/csv-dialect/)
