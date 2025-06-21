@@ -55,7 +55,4 @@ This project is licensed under the BSD-2-Clause license. See `LICENSE` for detai
 
 ## 🌍 Acknowledgements
 
-Built by and for the scientific community. We draw inspiration from:
-- The FAIR data principles
-- Open standards communities (IETF, GA4GH, W3C)
-- Open Science networks and institutional repositories
+Built by and for the scientific community.
